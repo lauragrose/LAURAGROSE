@@ -22,11 +22,11 @@
 
 <div align="center">
 
-I have acquired a solid knowledge of the main languages and frameworks used in the development of web applications, such as HTML, CSS, JavaScript, TypeScript, Angular. Over the past few months, I have decided to focus my attention on specializing in the platform Java. I started working on real projects using Java Framework, becoming familiar with SpringBoot, PostgresSQL, Postman.
+I'm a former graphic designer who wants to take on a new professional challenge in the world of front-end and back-end development. I am passionate about technology and programming and I want to put my skills and abilities at the service of a company that aims at innovation and progress.
 
-My passion for technology prompted me to start my developer journey with Epicode School, a full-time advanced training course where I earned the Full-Stack Developer certification, but my life was also influenced by art and Photography in particular. In fact, I had the opportunity to complete a Bachelor degree in Science and tecnique of Art. This experience gave me a unique insight into creativity and technology, which prompted me to try to merge these two passions into my work.
+After studying and working as a graphic designer, I decided to take it one step further and deepen my knowledge of web development. I studied the main programming languages with Epicode and I developed some web interfaces to consolidate my skills.
 
-If you are looking for a junior Full Stack Developer with specific skills in Java, please feel free to contact me. I am available for an interview, and I am sure that together we can carry out exciting and successful projects!
+Now, I'm ready to face new professional challenges and I'm convinced that my experience as a graphic designer has provided me with a solid foundation to work as a web developer. I have excellent ability to work in team and to solve problems in a creative way, skills that have been useful to me in my previous professional activity.
 
 <br>
  <div align="left"> 
